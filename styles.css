@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.subt{
+	color: #610B4B;
+	font-style: italic;
+	font-weight: bold;
+	padding:12px;
+	font-size: 1.2em;
+}
+.button{
+	color:#FFF;
+	background-color: #848484;
+	font-weight: bold;
+	padding:20px;
+	text-align: center;
+	border:2px solid #5D6063;
+	border-radius: 1px;
+
+	width:300px;
+	margin:20px auto;
+}
+.page{
+	width: 800px;
+	margin: 10px auto;
+	font-size: 1.18em;
+	font-style: italic;
+	font-weight: bold;
+	background-color: #EFF5FB;
+}
+.fondo{
+	background-color: #CEE3F6;
+
+}
+p{
+	padding: 2px;
+}
+<!--Blue #5995DA  #7E8184-->
